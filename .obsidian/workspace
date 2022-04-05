@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "de5a616d0930f088",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e10b450758684d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "readme.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05425fbc7f7dc633",
+    "type": "split",
+    "children": [
+      {
+        "id": "236695e643f01221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b664e458267ed65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7d4d2ced417fa75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268
+  },
+  "right": {
+    "id": "a051442ca8318143",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa5205af8985fda9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ce376d64696112",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "79e10b450758684d",
+  "lastOpenFiles": [
+    "readme.md",
+    "2022/2022-04 (April)/2022-04-05 (Tuesday).md",
+    "_meta/templater/templates/periodic(1) daily.md",
+    "2022/2022-04 (April)/2022-04-05.md",
+    "2022-04-05.md",
+    "2022/2022-03 (March)/2022-03-31 (Thursday).md",
+    "2022/readme.md"
+  ]
+}

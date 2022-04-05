@@ -1,0 +1,6 @@
+{
+  "folder": "2022/2022-04 (April)",
+  "template": "_meta/templater/templates/periodic(1) daily",
+  "autorun": true,
+  "format": "YYYY-MM-DD (dddd)"
+}
